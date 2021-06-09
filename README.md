@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/JarleMidtbo/AzurePipelinesTrial/_apis/build/status/FairW.pipelines-java?branchName=master)](https://dev.azure.com/JarleMidtbo/AzurePipelinesTrial/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
